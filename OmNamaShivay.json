@@ -1,6 +1,10 @@
 {
   "utsavs": [
     {
+      "matchers": ["बालोपासना", "Balopasana"],
+      "mr": "बालोपासना"
+    },
+    {
       "matchers": ["महाशिवरात्र - प्रातस्मरण", "Mahashivratra - Pratasmaran"],
       "mr": "महाशिवरात्र - प्रातस्मरण"
     },
@@ -95,6 +99,42 @@
     {
       "matchers": ["सागर राणे", "Sagar Rane"],
       "mr": "सागर राणे"
+    },
+    {
+      "matchers": ["अमोल पटवर्धन", "Amol Patwardhan"],
+      "mr": "अमोल पटवर्धन"
+    },
+    {
+      "matchers": ["अक्षय चव्हाण", "Akshay Chavan"],
+      "mr": "अक्षय चव्हाण"
+    },
+    {
+      "matchers": ["श्रीकांत माने", "Shrikant Mane"],
+      "mr": "श्रीकांत माने"
+    },
+    {
+      "matchers": ["रोहन राणे", "Rohan Rane"],
+      "mr": "रोहन राणे"
+    },
+    {
+      "matchers": ["सुनील केळकर", "Sunil Kelkar"],
+      "mr": "सुनील केळकर"
+    },
+    {
+      "matchers": ["विहंग वझे", "Vihang Vaze"],
+      "mr": "विहंग वझे"
+    },
+    {
+      "matchers": ["अक्षता घाडीगावकर", "Akshata Ghadigaonkar"],
+      "mr": "अक्षता घाडीगावकर"
+    },
+    {
+      "matchers": ["जयश्री लोळे", "Jayshree Lole"],
+      "mr": "जयश्री लोळे"
+    },
+    {
+      "matchers": ["अनिता भांड", "Anita Bhand"],
+      "mr": "अनिता भांड"
     }
   ]
 }
