@@ -1,22 +1,100 @@
 {
-	"utsavs": [
-		{
-			"en": "Mahashivratra",
-			"mr": "महाशिवरात्र"
-		},
-		{
-			"en": "Gopalkala",
-			"mr": "गोपाळकाला"
-		}
-	],
-	"sevekari": [
-		{
-			"en": "Abhay Parab",
-			"mr": "अभय परब"
-		},
-		{
-			"en": "Sagar Rane",
-			"mr": "सागर राणे"
-		}
-	]
+  "utsavs": [
+    {
+      "matchers": ["महाशिवरात्र - प्रातस्मरण", "Mahashivratra - Pratasmaran"],
+      "mr": "महाशिवरात्र - प्रातस्मरण"
+    },
+    {
+      "matchers": [
+        "महाशिवरात्र - दुपारचा कार्यक्रम",
+        "Mahashivratra - Duparcha Karyakram"
+      ],
+      "mr": "महाशिवरात्र - दुपारचा कार्यक्रम"
+    },
+    {
+      "matchers": ["महाशिवरात्र - सायंस्मरण", "Mahashivratra - Sayansmaran"],
+      "mr": "महाशिवरात्र - सायंस्मरण"
+    },
+    {
+      "matchers": ["महाशिवरात्र - रात्रौस्मरण", "Mahashivratra - Raatrosmaran"],
+      "mr": "महाशिवरात्र - रात्रौस्मरण"
+    },
+    {
+      "matchers": ["गोपाळकाला", "Gopalkala"],
+      "mr": "गोपाळकाला"
+    },
+    {
+      "matchers": [
+        "चातुर्मासातील पहिली एकादशी",
+        "Chaturmasatil Pahili Ekadashi"
+      ],
+      "mr": "चातुर्मासातील पहिली एकादशी"
+    },
+    {
+      "matchers": [
+        "चातुर्मासातील दुसरी एकादशी",
+        "Chaturmasatil Dusri Ekadashi"
+      ],
+      "mr": "चातुर्मासातील दुसरी एकादशी"
+    },
+    {
+      "matchers": [
+        "चातुर्मासातील तिसरी एकादशी",
+        "Chaturmasatil Tisri Ekadashi"
+      ],
+      "mr": "चातुर्मासातील तिसरी एकादशी"
+    },
+    {
+      "matchers": [
+        "चातुर्मासातील चौथी एकादशी",
+        "Chaturmasatil Chavthi Ekadashi"
+      ],
+      "mr": "चातुर्मासातील चौथी एकादशी"
+    },
+    {
+      "matchers": [
+        "चातुर्मासातील पाचवी एकादशी",
+        "Chaturmasatil Pachvi Ekadashi"
+      ],
+      "mr": "चातुर्मासातील पाचवी एकादशी"
+    },
+    {
+      "matchers": [
+        "चातुर्मासातील सहावी एकादशी",
+        "Chaturmasatil Sahavi Ekadashi"
+      ],
+      "mr": "चातुर्मासातील सहावी एकादशी"
+    },
+    {
+      "matchers": [
+        "चातुर्मासातील सातवी एकादशी",
+        "Chaturmasatil Saatvi Ekadashi"
+      ],
+      "mr": "चातुर्मासातील सातवी एकादशी"
+    },
+    {
+      "matchers": [
+        "चातुर्मासातील आठवी एकादशी",
+        "Chaturmasatil Aathvi Ekadashi"
+      ],
+      "mr": "चातुर्मासातील आठवी एकादशी"
+    },
+    {
+      "matchers": [
+        "चातुर्मासातील नौवी एकादशी",
+        "Chaturmasatil Navavi Ekadashi"
+      ],
+      "mr": "चातुर्मासातील नौवी एकादशी"
+    }
+  ],
+  "sevekari": [
+    {
+      "matchers": ["अभय परब", "Abhay Parab"],
+      "mr": "अभय परब"
+    },
+    {
+      "matchers": ["सागर राणे", "Sagar Rane"],
+      "mr": "सागर राणे"
+    }
+  ]
 }
